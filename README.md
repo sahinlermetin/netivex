@@ -1,2 +1,3 @@
 # netivex
-Netivex, Windows bilgisayarlarda internet bağlantısının hızını, kararlılığını ve kesintilerini tıbbi bir monitör (EKG) hassasiyetiyle anlık olarak izleyen, test eden ve arıza kaynağını tespit edip raporlayabilen hafif bir ağ teşhis ve izleme yazılımıdır.
+Netivex – Real-Time Network Monitoring and Diagnostics
+Netivex is a lightweight network monitoring and diagnostics application for Windows that monitors internet speed, stability, and outages in real time with the precision of a medical ECG monitor. It can run tests, identify the source of network problems, and generate technical reports.
